@@ -1,0 +1,89 @@
+Exact_Issue_Type,Group_SSI,Status_Group,ExactStatus,Ageing_OR_Q2R_Bucket,is_Fav,incident_id,dashboard_date
+Amount Debited Order Not Confirmed,amount_debited_order_not_confirmed,Open,ReOpenByL2,e. 120+ Hrs,Fav,2,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpen,c. 49-72 Hrs,UnFav,7,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpen,d. 73-120 Hrs,UnFav,11,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpen,e. 120+ Hrs,UnFav,42,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpenByL2,c. 49-72 Hrs,UnFav,7,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpenByL2,d. 73-120 Hrs,UnFav,39,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Open,ReOpenByL2,e. 120+ Hrs,UnFav,128,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Solved,Solved,b. 25-48 Hrs,UnFav,1,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Solved,Solved,c. 49-72 Hrs,UnFav,1,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Solved,Solved,d. 73-120 Hrs,UnFav,1,26-May-2024
+Amount Paid To IDFC,amount__paid_to_idfc,Solved,Solved,e. 120+ Hrs,UnFav,6,26-May-2024
+Billing Issue - Explanation needed,billing_issue_explanation_needed,Solved,Solved,c. 49-72 Hrs,Fav,1,26-May-2024
+CIBIL Issue,cibil_issue,Open,ReOpenByL2,e. 120+ Hrs,UnFav,1,26-May-2024
+Deactivation in progress >7 Days,deactivation_in_progress_since_more_than_7_days,Solved,Solved,b. 25-48 Hrs,Fav,4,26-May-2024
+Mismatch In Bill,mismatch_in_bill,Open,ReOpen,d. 73-120 Hrs,Fav,2,26-May-2024
+Mismatch In Bill,mismatch_in_bill,Open,ReOpenByL2,d. 73-120 Hrs,Fav,1,26-May-2024
+Mismatch In Bill,mismatch_in_bill,Open,ReOpenByL2,e. 120+ Hrs,Fav,19,26-May-2024
+Mismatch In Bill,mismatch_in_bill,Solved,Solved,d. 73-120 Hrs,Fav,5,26-May-2024
+Mismatch In Bill,mismatch_in_bill,Solved,Solved,e. 120+ Hrs,Fav,4,26-May-2024
+Recharge Related,recharge_related,Open,ReOpen,e. 120+ Hrs,Fav,3,26-May-2024
+Recharge Related,recharge_related,Open,ReOpenByL2,e. 120+ Hrs,Fav,6,26-May-2024
+Refund Related Issue,refund_not_processed,Open,ReOpenByL2,e. 120+ Hrs,Fav,14,26-May-2024
+Refund Related Issue,refund_not_processed,Solved,Solved,d. 73-120 Hrs,Fav,2,26-May-2024
+account_hacked_ato,account_hacked_ato,Open,ReOpen,c. 49-72 Hrs,UnFav,1,26-May-2024
+account_hacked_ato,account_hacked_ato,Open,ReOpen,e. 120+ Hrs,UnFav,1,26-May-2024
+account_hacked_ato,account_hacked_ato,Open,ReOpenByL2,e. 120+ Hrs,UnFav,1,26-May-2024
+amount__paid_to_idfc,amount__paid_to_idfc,Open,ReOpenByL2,e. 120+ Hrs,UnFav,5,26-May-2024
+amount__paid_to_idfc,amount__paid_to_idfc,Solved,Solved,a. 00-24 Hrs,UnFav,3,26-May-2024
+amount__paid_to_idfc,amount__paid_to_idfc,Solved,Solved,b. 25-48 Hrs,UnFav,2,26-May-2024
+amount_debited_order_not_confirmed,amount_debited_order_not_confirmed,Open,ReOpen,e. 120+ Hrs,Fav,1,26-May-2024
+amount_debited_order_not_confirmed,amount_debited_order_not_confirmed,Solved,Solved,b. 25-48 Hrs,Fav,1,26-May-2024
+billing_issue_explanation_needed,billing_issue_explanation_needed,Open,ReOpenByL2,d. 73-120 Hrs,Fav,1,26-May-2024
+billing_issue_explanation_needed,billing_issue_explanation_needed,Open,ReOpenByL2,e. 120+ Hrs,Fav,1,26-May-2024
+billing_issue_explanation_needed,billing_issue_explanation_needed,Solved,Solved,a. 00-24 Hrs,Fav,7,26-May-2024
+billing_issue_explanation_needed,billing_issue_explanation_needed,Solved,Solved,b. 25-48 Hrs,Fav,2,26-May-2024
+cibil_issue,cibil_issue,Open,ReOpenByL2,d. 73-120 Hrs,UnFav,1,26-May-2024
+cibil_issue,cibil_issue,Solved,Solved,a. 00-24 Hrs,UnFav,3,26-May-2024
+cibil_issue,cibil_issue,Solved,Solved,c. 49-72 Hrs,UnFav,1,26-May-2024
+deactivation_of_account,deactivation_of_account,Solved,Solved,a. 00-24 Hrs,Fav,59,26-May-2024
+deactivation_of_account,deactivation_of_account,Solved,Solved,b. 25-48 Hrs,Fav,23,26-May-2024
+deactivation_of_account,deactivation_of_account,Solved,Solved,c. 49-72 Hrs,Fav,2,26-May-2024
+deactivation_of_account,deactivation_of_account,Solved,Solved,d. 73-120 Hrs,Fav,1,26-May-2024
+general_query,general_query,Solved,Solved,a. 00-24 Hrs,Fav,6,26-May-2024
+general_query,general_query,Solved,Solved,b. 25-48 Hrs,Fav,3,26-May-2024
+general_query,general_query,Solved,Solved,c. 49-72 Hrs,Fav,1,26-May-2024
+language_barrier,language_barrier,Solved,Solved,a. 00-24 Hrs,UnFav,1,26-May-2024
+language_barrier,language_barrier,Solved,Solved,b. 25-48 Hrs,UnFav,2,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Open,ReOpen,c. 49-72 Hrs,Fav,1,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Open,ReOpen,d. 73-120 Hrs,Fav,1,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Open,ReOpenByL2,d. 73-120 Hrs,Fav,6,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Open,ReOpenByL2,e. 120+ Hrs,Fav,2,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Solved,Solved,a. 00-24 Hrs,Fav,1,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Solved,Solved,c. 49-72 Hrs,Fav,1,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Solved,Solved,d. 73-120 Hrs,Fav,11,26-May-2024
+mismatch_in_bill,mismatch_in_bill,Solved,Solved,e. 120+ Hrs,Fav,2,26-May-2024
+no_dues_but_getting_reminders,no_dues_but_getting_reminders,Solved,Solved,c. 49-72 Hrs,Fav,1,26-May-2024
+no_dues_but_getting_reminders,no_dues_but_getting_reminders,Solved,Solved,e. 120+ Hrs,Fav,1,26-May-2024
+non_bnpl_case,non_bnpl_case,Solved,Solved,a. 00-24 Hrs,UnFav,1,26-May-2024
+non_bnpl_case,non_bnpl_case,Solved,Solved,b. 25-48 Hrs,UnFav,2,26-May-2024
+non_bnpl_case,non_bnpl_case,Solved,Solved,c. 49-72 Hrs,UnFav,1,26-May-2024
+non_bnpl_case,non_bnpl_case,Solved,Solved,d. 73-120 Hrs,UnFav,1,26-May-2024
+non_bnpl_case,non_bnpl_case,Solved,Solved,e. 120+ Hrs,UnFav,1,26-May-2024
+order_rejected_by_fraud_team_pay_later_advanz,unable_to_place_order_by_both_emi_and_paylater,Solved,Solved,b. 25-48 Hrs,UnFav,1,26-May-2024
+payback_done_not_updated,payback_done_not_updated,Open,ReOpenByL2,e. 120+ Hrs,Fav,1,26-May-2024
+payback_done_not_updated,payback_done_not_updated,Solved,Solved,a. 00-24 Hrs,Fav,2,26-May-2024
+personal_loan_related,personal_loan_related,Open,ReOpen,d. 73-120 Hrs,Fav,1,26-May-2024
+recharge_related,recharge_related,Open,ReOpen,d. 73-120 Hrs,Fav,7,26-May-2024
+recharge_related,recharge_related,Open,ReOpen,e. 120+ Hrs,Fav,3,26-May-2024
+recharge_related,recharge_related,Open,ReOpenByL2,e. 120+ Hrs,Fav,11,26-May-2024
+recharge_related,recharge_related,Solved,Solved,a. 00-24 Hrs,Fav,1,26-May-2024
+recharge_related,recharge_related,Solved,Solved,b. 25-48 Hrs,Fav,3,26-May-2024
+recharge_related,recharge_related,Solved,Solved,c. 49-72 Hrs,Fav,25,26-May-2024
+recharge_related,recharge_related,Solved,Solved,d. 73-120 Hrs,Fav,36,26-May-2024
+recharge_related,recharge_related,Solved,Solved,e. 120+ Hrs,Fav,13,26-May-2024
+refund_not_processed,refund_not_processed,Open,ReOpenByL2,d. 73-120 Hrs,Fav,1,26-May-2024
+refund_not_processed,refund_not_processed,Open,ReOpenByL2,e. 120+ Hrs,Fav,2,26-May-2024
+refund_not_processed,refund_not_processed,Solved,Solved,d. 73-120 Hrs,Fav,1,26-May-2024
+unable_to_complete_kyc,unable_to_complete_kyc,Solved,Solved,a. 00-24 Hrs,UnFav,1,26-May-2024
+unable_to_complete_kyc,unable_to_complete_kyc,Solved,Solved,b. 25-48 Hrs,UnFav,1,26-May-2024
+unable_to_pay_bill,unable_to_pay_bill,Solved,Solved,b. 25-48 Hrs,Fav,5,26-May-2024
+unable_to_pay_bill,unable_to_pay_bill,Solved,Solved,e. 120+ Hrs,Fav,1,26-May-2024
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,Open,ReOpen,c. 49-72 Hrs,UnFav,1,26-May-2024
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,Solved,Solved,a. 00-24 Hrs,UnFav,4,26-May-2024
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,Solved,Solved,b. 25-48 Hrs,UnFav,7,26-May-2024
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,Solved,Solved,d. 73-120 Hrs,UnFav,1,26-May-2024
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,Solved,Solved,e. 120+ Hrs,UnFav,1,26-May-2024
+utility_issues,utility_issues,Solved,Solved,c. 49-72 Hrs,UnFav,1,26-May-2024
+voc_not_clear,voc_not_clear,Solved,Solved,a. 00-24 Hrs,UnFav,1,26-May-2024

@@ -1,0 +1,74 @@
+﻿Exact_Issue_Type,Group_SSI,is_Fav
+Other,Other,UnFav
+recharge_related,recharge_related,Fav
+Unable to Pay the bill,unable_to_pay_bill,Fav
+deactivation_of_account,deactivation_of_account,Fav
+unable_to_place_order_by_paylater,unable_to_place_order_by_both_emi_and_paylater,UnFav
+cibil_issue,cibil_issue,UnFav
+unable_to_place_order_by_emi,unable_to_place_order_by_both_emi_and_paylater,UnFav
+unable_to_place_order_by_both_emi_and_paylater,unable_to_place_order_by_both_emi_and_paylater,UnFav
+Unable to Place order,unable_to_place_order_by_both_emi_and_paylater,UnFav
+utility_issues,utility_issues,UnFav
+unable_to_complete_kyc,unable_to_complete_kyc,UnFav
+billing_issue_explanation_needed,billing_issue_explanation_needed,Fav
+language_barrier,language_barrier,UnFav
+unable_to_pay_bill,unable_to_pay_bill,Fav
+voc_not_clear,voc_not_clear,UnFav
+blank_incident,blank_incident,UnFav
+VOC,voc_not_clear,UnFav
+payback_done_not_updated,payback_done_not_updated,Fav
+amount__paid_to_idfc,amount__paid_to_idfc,UnFav
+general_query,general_query,Fav
+paylater_offer_related,paylater_offer_related,Fav
+refund_not_processed,refund_not_processed,Fav
+penalty_waive_off,penalty_waive_off,Fav
+Payback Done not updated in the Bill,payback_done_not_updated,Fav
+mismatch_in_bill,mismatch_in_bill,Fav
+payment_done_but_still_getting_the_reminders,no_dues_but_getting_reminders,Fav
+non_bnpl_case,non_bnpl_case,UnFav
+movable,non_bnpl_case,UnFav
+Non BNPL Case,non_bnpl_case,UnFav
+deactivation_in_progress_since_more_than_7_days,deactivation_in_progress_since_more_than_7_days,Fav
+CIBIL Issue,cibil_issue,UnFav
+Mismatch In Bill,mismatch_in_bill,Fav
+Recharge Related,recharge_related,Fav
+amount_debited_order_not_confirmed,amount_debited_order_not_confirmed,Fav
+personal_loan_related,personal_loan_related,Fav
+convenience_fee_waiver,convenience_fee_waiver,Fav
+force closure request,force closure request,Fav
+myntra_issue,myntra_issue,UnFav
+account_hacked_ato,account_hacked_ato,UnFav
+order_rejected_by_fraud_team_pay_later_advanz,unable_to_place_order_by_both_emi_and_paylater,UnFav
+pay back failed,payback_done_not_updated,Fav
+Risk Block Lender,unable_to_place_order_by_both_emi_and_paylater,UnFav
+Others,Other,UnFav
+Unable to Place order - Post Onboarding,unable_to_place_order_by_both_emi_and_paylater,UnFav
+general query,general_query,Fav
+Refund Related Issue,refund_not_processed,Fav
+Amount Paid To IDFC,amount__paid_to_idfc,UnFav
+Risk Block Fk,unable_to_place_order_by_both_emi_and_paylater,UnFav
+Offer Related,paylater_offer_related,Fav
+deactiavtion_of_account,deactivation_of_account,Fav
+Risk Block cx,unable_to_place_order_by_both_emi_and_paylater,UnFav
+Amount paid to IDFC,amount__paid_to_idfc,UnFav
+no_dues_but_getting_reminders,no_dues_but_getting_reminders,Fav
+usage fee,usage_fees,UnFav
+Refund Related Issue,refund_not_processed,Fav
+Unable to Place order - Post Onboarding,unable_to_place_order_by_both_emi_and_paylater,UnFav
+FSUP Related,fsup_related,Fav
+Amount Debited Order Not Confirmed,amount_debited_order_not_confirmed,Fav
+unable_to_place_order,unable_to_place_order_by_both_emi_and_paylater,UnFav
+usage_fees,usage_fees,UnFav
+FSUP,fsup_related,Fav
+KYC,unable_to_complete_kyc,UnFav
+Payback done Not Updated,payback_done_not_updated,Fav
+Billing Issue - Explanation needed,billing_issue_explanation_needed,Fav
+Payment done but still getting the reminders,no_dues_but_getting_reminders,Fav
+Paylater Offer Related,paylater_offer_related,Fav
+UTILITY Issues,utility_issues,UnFav
+fsup_related,fsup_related,Fav
+unable to pay bill,unable_to_pay_bill,Fav
+cleartrip_and_travel_related,Other,UnFav
+Unable to Place order -  Post Onboarding,unable_to_place_order_by_both_emi_and_paylater,UnFav
+Deactivation in progress >7 Days,deactivation_in_progress_since_more_than_7_days,Fav
+Billing explanation needed,billing_issue_explanation_needed,Fav
